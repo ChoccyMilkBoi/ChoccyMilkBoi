@@ -5,8 +5,7 @@
  &
  Python
  And various other things
- Currently trying to make a game in UE5
- pls Send help ;-;
+
  
 <!---
 ChoccyMilkBoi/ChoccyMilkBoi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
